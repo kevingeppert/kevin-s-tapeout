@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+it turns on output 1 when inputs 1, 2, 3, 4, and 8 are lit
 
 ## How to test
 
-Explain how to use your project
+do those numbers turn on output 1?
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+some sort of 8-input device and output LED
